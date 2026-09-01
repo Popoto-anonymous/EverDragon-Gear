@@ -1,0 +1,122 @@
+# Global stuff
+everlastingdragon.name=Equipment of the Ever Dragons
+
+# Equipment
+
+  //DART
+
+everlastingdragon.equipment.dragon_blade.name=Dragon Blade
+everlastingdragon.equipment.dragon_blade.description=Made for Dragon Knights
+
+everlastingdragon.equipment.scale_edge.name=Scale Edge
+everlastingdragon.equipment.scale_edge.description=Made of Dragon Scales
+
+everlastingdragon.equipment.truescale_gradiant.name=Truescale Gradiant
+everlastingdragon.equipment.truescale_gradiant.description=Made from the scales\nof a Great Fire Dragon.
+
+  // LAVBERT
+
+everlastingdragon.equipment.dragon_spear.name=Dragon Spear
+everlastingdragon.equipment.dragon_spear.description=Made for Dragon Knights
+
+everlastingdragon.equipment.scale_point.name=Scale Point
+everlastingdragon.equipment.scale_point.description=Made of Dragon Scales
+
+everlastingdragon.equipment.truescale_prism.name=Truescale Prism
+everlastingdragon.equipment.truescale_prism.description=Made from the scales\nof a Great Wind Dragon.
+
+  //SHARANDA
+
+everlastingdragon.equipment.dragon_shortbow.name=Dragon Shortbow
+everlastingdragon.equipment.dragon_shortbow.description=Made for Dragon Knights
+
+everlastingdragon.equipment.scale_longbow.name=Scale Longbow
+everlastingdragon.equipment.scale_longbow.description=Made of Dragon Scales
+
+everlastingdragon.equipment.truescale_beacon.name=Truescale Beacon
+everlastingdragon.equipment.truescale_beacon.description=Made from the scales\nof a Great Light Dragon.
+
+  //ROSE
+
+everlastingdragon.equipment.dragon_shortblade.name=Dragon Shortblade
+everlastingdragon.equipment.dragon_shortblade.description=Made for Dragon Knights
+
+everlastingdragon.equipment.scale_scraper.name=Scale Scraper
+everlastingdragon.equipment.scale_scraper.description=Made of Dragon Scales
+
+everlastingdragon.equipment.truescale_despair.name=Truescale Despair
+everlastingdragon.equipment.truescale_despair.description=Made from the scales\nof a Great Dark Dragon.
+
+  //HASCHEL
+
+everlastingdragon.equipment.dragon_fist.name=Dragon Fist
+everlastingdragon.equipment.dragon_fist.description=Made for Dragon Knights
+
+everlastingdragon.equipment.scale_crusher.name=Scale Crusher
+everlastingdragon.equipment.scale_crusher.description=Made of Dragon Scales
+
+everlastingdragon.equipment.truescale_destroyer.name=Truescale Destroyer
+everlastingdragon.equipment.truescale_destroyer.description=Made from the scales\nof a Great Lightning\nDragon.
+
+  //MERU
+
+everlastingdragon.equipment.dragon_hammer.name=Dragon Hammer
+everlastingdragon.equipment.dragon_hammer.description=Made for Dragon Knights
+
+everlastingdragon.equipment.scale_maul.name=Scale Maul
+everlastingdragon.equipment.scale_maul.description=Made of Dragon Scales
+
+everlastingdragon.equipment.truescale_icebreaker.name=Truescale Icebreaker
+everlastingdragon.equipment.truescale_icebreaker.description=Made from the scales\nof a Great Ice Dragon.
+
+  //KONGOL
+
+everlastingdragon.equipment.dragon_axe.name=Dragon Axe
+everlastingdragon.equipment.dragon_axe.description=Made for Dragon Knights
+
+everlastingdragon.equipment.scale_cleaver.name=Scale Cleaver
+everlastingdragon.equipment.scale_cleaver.description=Made of Dragon Scales
+
+everlastingdragon.equipment.truescale_reaver.name=Truescale Reaver
+everlastingdragon.equipment.truescale_reaver.description=Made from the scales\nof a Great Earth Dragon.
+
+  //UNIVERSAL
+
+everlastingdragon.equipment.everdragons_helm.name=Everdragon Helm
+everlastingdragon.equipment.everdragons_helm.description=For novice Dragon\nKnights.
+
+everlastingdragon.equipment.everdragons_armor.name=Everdragon Armor
+everlastingdragon.equipment.everdragons_armor.description=For novice Dragon\nKnights.
+
+everlastingdragon.equipment.everdragons_boots.name=Everdragon Boots
+everlastingdragon.equipment.everdragons_boots.description=For novice Dragon\nKnights.
+
+everlastingdragon.equipment.everdragons_ring.name=Everdragon Ring
+everlastingdragon.equipment.everdragons_ring.description=For novice Dragon\nKnights.
+
+
+everlastingdragon.equipment.everdragons_greathelm.name=Everdragon Greathelm
+everlastingdragon.equipment.everdragons_greathelm.description=For intermediate\nDragon Knights.
+
+everlastingdragon.equipment.everdragons_platearmor.name=Everdragon Plate
+everlastingdragon.equipment.everdragons_platearmor.description=For intermediate\nDragon Knights.
+
+everlastingdragon.equipment.everdragons_greaves.name=Everdragon Greaves
+everlastingdragon.equipment.everdragons_greaves.description=For intermediate\nDragon Knights.
+
+everlastingdragon.equipment.everdragons_gauntlets.name=Everdragon Gauntlets
+everlastingdragon.equipment.everdragons_gauntlets.description=For intermediate\nDragon Knights.
+
+
+everlastingdragon.equipment.everdragons_truescalehelm.name=Everdragon TruHelm
+everlastingdragon.equipment.everdragons_truescalehelm.description=For True Dragon\nKnights.
+
+everlastingdragon.equipment.everdragons_truescalearmor.name=Everdragon TruArmor
+everlastingdragon.equipment.everdragons_truescalearmor.description=For True Dragon\nKnights.
+
+everlastingdragon.equipment.everdragons_truescalegreaves.name=Everdragon TruGreav
+everlastingdragon.equipment.everdragons_truescalegreaves.description=For True Dragon\nKnights.
+
+everlastingdragon.equipment.everdragons_truescalegauntlets.name=Everdragon TruGaunt
+everlastingdragon.equipment.everdragons_truescalegauntlets.description=For True Dragon\nKnights.
+
