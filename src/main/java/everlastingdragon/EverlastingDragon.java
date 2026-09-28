@@ -92,7 +92,7 @@ public class EverlastingDragon {
   public void gatherEquipmentTypes(final GatherEquipmentTypesEvent event) {
     event.add(Equipments.EVERDRAGONS_HELM.get(), EquipmentTypes.NEUTRAL);
     event.add(Equipments.KNIGHTDRAGONS_ARMOR.get(), EquipmentTypes.DART, EquipmentTypes.LAVITZ, EquipmentTypes.ALBERT);
-    event.add(Equipments.LADYDRAGONS_ARMOR.get(), EquipmentTypes.SHANA, EquipmentTypes.ROSE, EquipmentTypes.MIRANDA);
+    event.add(Equipments.LADYDRAGONS_ARMOR.get(), EquipmentTypes.SHANA, EquipmentTypes.ROSE, EquipmentTypes.MIRANDA, EquipmentTypes.MERU);
     event.add(Equipments.MARTIALDRAGONS_ARMOR.get(), EquipmentTypes.HASCHEL);
     event.add(Equipments.GIANTDRAGONS_ARMOR.get(), EquipmentTypes.KONGOL);
     event.add(Equipments.EVERDRAGONS_BOOTS.get(), EquipmentTypes.NEUTRAL);
