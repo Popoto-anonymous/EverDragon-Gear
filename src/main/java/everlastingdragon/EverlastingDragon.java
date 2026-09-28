@@ -32,7 +32,8 @@ public class EverlastingDragon {
 
     switch(event.shop.getRegistryId().entryId()) {
       case "lohan_equipment_shop", "kazas_equipment_shop", "fletz_equipment_shop", "donau_equipment_shop", "queen_fury_equipment_shop", "fueno_equipment_shop" -> {
-        event.contents.add(new ShopScreen.ShopEntry<>(Equipments.EVERDRAGONS_HELM.get(), 300));
+        event.contents.add(new ShopScreen.ShopEntry<>(Equipments.KNIGHTDRAGONS_HELM.get(), 300));
+        event.contents.add(new ShopScreen.ShopEntry<>(Equipments.LADYDRAGONS_HELM.get(), 300));
         event.contents.add(new ShopScreen.ShopEntry<>(Equipments.KNIGHTDRAGONS_ARMOR.get(), 300));
         event.contents.add(new ShopScreen.ShopEntry<>(Equipments.LADYDRAGONS_ARMOR.get(), 300));
         event.contents.add(new ShopScreen.ShopEntry<>(Equipments.MARTIALDRAGONS_ARMOR.get(), 300));
@@ -48,7 +49,8 @@ public class EverlastingDragon {
         event.contents.add(new ShopScreen.ShopEntry<>(Equipments.DRAGON_AXE.get(), 200));
       }
       case "furni_equipment_shop", "deningrad_equipment_shop", "wingly_forest_equipment_shop", "kashua_equipment_shop", "vellweb_equipment_shop" -> {
-        event.contents.add(new ShopScreen.ShopEntry<>(Equipments.EVERDRAGONS_GREATHELM.get(), 600));
+        event.contents.add(new ShopScreen.ShopEntry<>(Equipments.KNIGHTDRAGONS_GREATHELM.get(), 600));
+        event.contents.add(new ShopScreen.ShopEntry<>(Equipments.LADYDRAGONS_GREATHELM.get(), 600));
         event.contents.add(new ShopScreen.ShopEntry<>(Equipments.FIREDRAGONS_MEDIUMARMOR.get(), 600));
         event.contents.add(new ShopScreen.ShopEntry<>(Equipments.WINDDRAGONS_MEDIUMARMOR.get(), 600));
         event.contents.add(new ShopScreen.ShopEntry<>(Equipments.LIGHTDRAGONS_MEDIUMARMOR.get(), 600));
@@ -90,14 +92,16 @@ public class EverlastingDragon {
 
   @EventListener
   public void gatherEquipmentTypes(final GatherEquipmentTypesEvent event) {
-    event.add(Equipments.EVERDRAGONS_HELM.get(), EquipmentTypes.NEUTRAL);
+    event.add(Equipments.KNIGHTDRAGONS_HELM.get(), EquipmentTypes.MALE);
+    event.add(Equipments.LADYDRAGONS_HELM.get(), EquipmentTypes.FEMALE);
     event.add(Equipments.KNIGHTDRAGONS_ARMOR.get(), EquipmentTypes.DART, EquipmentTypes.LAVITZ, EquipmentTypes.ALBERT);
     event.add(Equipments.LADYDRAGONS_ARMOR.get(), EquipmentTypes.SHANA, EquipmentTypes.ROSE, EquipmentTypes.MIRANDA, EquipmentTypes.MERU);
     event.add(Equipments.MARTIALDRAGONS_ARMOR.get(), EquipmentTypes.HASCHEL);
     event.add(Equipments.GIANTDRAGONS_ARMOR.get(), EquipmentTypes.KONGOL);
     event.add(Equipments.EVERDRAGONS_BOOTS.get(), EquipmentTypes.NEUTRAL);
     event.add(Equipments.EVERDRAGONS_RING.get(), EquipmentTypes.NEUTRAL);
-    event.add(Equipments.EVERDRAGONS_GREATHELM.get(), EquipmentTypes.NEUTRAL);
+    event.add(Equipments.KNIGHTDRAGONS_GREATHELM.get(), EquipmentTypes.MALE);
+    event.add(Equipments.LADYDRAGONS_GREATHELM.get(), EquipmentTypes.FEMALE);
     event.add(Equipments.FIREDRAGONS_MEDIUMARMOR.get(), EquipmentTypes.DART);
     event.add(Equipments.WINDDRAGONS_MEDIUMARMOR.get(), EquipmentTypes.LAVITZ, EquipmentTypes.ALBERT);
     event.add(Equipments.LIGHTDRAGONS_MEDIUMARMOR.get(), EquipmentTypes.SHANA, EquipmentTypes.MIRANDA);
