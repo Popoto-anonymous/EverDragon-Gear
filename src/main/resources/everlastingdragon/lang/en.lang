@@ -85,8 +85,17 @@ everlastingdragon.equipment.truescale_reaver.description=Made from the scales\no
 everlastingdragon.equipment.everdragons_helm.name=Everdragon Helm
 everlastingdragon.equipment.everdragons_helm.description=For novice Dragon\nKnights.
 
-everlastingdragon.equipment.everdragons_armor.name=Everdragon Armor
-everlastingdragon.equipment.everdragons_armor.description=For novice Dragon\nKnights.
+everlastingdragon.equipment.knightdragons_armor.name=Knights Armor
+everlastingdragon.equipment.knightdragons_armor.description=For the Lads.
+
+everlastingdragon.equipment.ladydragons_armor.name=Battle Dress
+everlastingdragon.equipment.ladydragons_armor.description=For the Ladies.
+
+everlastingdragon.equipment.martialdragons_armor.name=Warrior Garb
+everlastingdragon.equipment.martialdragons_armor.description=For Martial Artists.
+
+everlastingdragon.equipment.giantdragons_armor.name=Giant Armor
+everlastingdragon.equipment.giantdragons_armor.description=For Giants.
 
 everlastingdragon.equipment.everdragons_boots.name=Everdragon Boots
 everlastingdragon.equipment.everdragons_boots.description=For novice Dragon\nKnights.
@@ -98,8 +107,26 @@ everlastingdragon.equipment.everdragons_ring.description=For novice Dragon\nKnig
 everlastingdragon.equipment.everdragons_greathelm.name=Everdragon Greathelm
 everlastingdragon.equipment.everdragons_greathelm.description=For intermediate\nDragon Knights.
 
-everlastingdragon.equipment.everdragons_platearmor.name=Everdragon Plate
-everlastingdragon.equipment.everdragons_platearmor.description=For intermediate\nDragon Knights.
+everlastingdragon.equipment.firedragons_mediumarmor.name=Flare Coat
+everlastingdragon.equipment.firedragons_mediumarmor.description=Fire resistant.
+
+everlastingdragon.equipment.winddragons_mediumarmor.name=Breeze Coat
+everlastingdragon.equipment.winddragons_mediumarmorr.description=Wind resistant.
+
+everlastingdragon.equipment.lightdragons_mediumarmor.name=Bright Coat
+everlastingdragon.equipment.lightdragons_mediumarmor.description=Light resistant.
+
+everlastingdragon.equipment.darkdragons_mediumarmor.name=Night Coat
+everlastingdragon.equipment.darkdragons_mediumarmor.description=Dark resistant.
+
+everlastingdragon.equipment.thunderdragons_mediumarmor.name=Crackle Coat
+everlastingdragon.equipment.thunderdragons_mediumarmor.description=Thunder resistant.
+
+everlastingdragon.equipment.earthdragons_mediumarmor.name=Ceramic Coat
+everlastingdragon.equipment.earthdragons_mediumarmor.description=Earth resistant.
+
+everlastingdragon.equipment.waterdragons_mediumarmor.name=Tidal Coat
+everlastingdragon.equipment.waterdragons_mediumarmor.description=Water resistant.
 
 everlastingdragon.equipment.everdragons_greaves.name=Everdragon Greaves
 everlastingdragon.equipment.everdragons_greaves.description=For intermediate\nDragon Knights.
@@ -111,8 +138,26 @@ everlastingdragon.equipment.everdragons_gauntlets.description=For intermediate\n
 everlastingdragon.equipment.everdragons_truescalehelm.name=Everdragon TruHelm
 everlastingdragon.equipment.everdragons_truescalehelm.description=For True Dragon\nKnights.
 
-everlastingdragon.equipment.everdragons_truescalearmor.name=Everdragon TruArmor
-everlastingdragon.equipment.everdragons_truescalearmor.description=For True Dragon\nKnights.
+everlastingdragon.equipment.firedragons_truescalearmor.name=Magma-Scale Armor
+everlastingdragon.equipment.firedragons_truescalearmor.description=Water resist.\nFire Immune.
+
+everlastingdragon.equipment.winddragons_truescalearmor.name=Wind-Scale Armor
+everlastingdragon.equipment.winddragons_truescalearmor.description=Earth resist.\nWind immune.
+
+everlastingdragon.equipment.lightdragons_truescalearmor.name=Light-Scale Armor
+everlastingdragon.equipment.lightdragons_truescalearmor.description=Dark resist.\nLight immune.
+
+everlastingdragon.equipment.darkdragons_truescalearmor.name=Void-Scale Armor
+everlastingdragon.equipment.darkdragons_truescalearmor.description=Light resist.\nDark immune
+
+everlastingdragon.equipment.thunderdragons_truescalearmor.name=Storm-Scale Armor
+everlastingdragon.equipment.thunderdragons_truescalearmor.description=Thunder immune.
+
+everlastingdragon.equipment.earthdragons_truescalearmor.name=Earth-Scale Armor
+everlastingdragon.equipment.earthdragons_truescalearmor.description=Wind resist.\Earth immune.
+
+everlastingdragon.equipment.waterdragons_truescalearmor.name=Sea-Scale Armor
+everlastingdragon.equipment.waterdragons_truescalearmor.description=Fire resist.\nWater immune.
 
 everlastingdragon.equipment.everdragons_truescalegreaves.name=Everdragon TruGreav
 everlastingdragon.equipment.everdragons_truescalegreaves.description=For True Dragon\nKnights.
